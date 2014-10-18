@@ -49,7 +49,7 @@ Setup
 Contact
 -------
 Visit http://tinkerlog.com for latest infos on this device. You can also leave
-me a message at alex@tinkerlog.com.
+me a message at alex at tinkerlog.com.
 
 
 
